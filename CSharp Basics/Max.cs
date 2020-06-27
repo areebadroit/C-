@@ -1,4 +1,4 @@
-﻿/// Write a program which takes two numbers from the console and displays the maximum of the two numbers.
+﻿// Write a program which takes two numbers from the console and displays the maximum of the two numbers.
 
 using System;
 using System.Collections.Generic;
